@@ -1,0 +1,17 @@
+#iniciar proyecto 
+npm init -y
+
+#instalar framework
+npm i express
+
+#ir a package.json y agregar propiedad
+"type": "module"
+
+#instalar nodemon
+npm i nodemon -D
+
+#agregar script nuevo en script
+"dev": "nodemon inde.js"
+
+#instalar mysql
+npm i mysql2
