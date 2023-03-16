@@ -9,4 +9,3 @@ CREATE TABLE employee(
     PRIMARY KEY (id)
 );
 
-DESCRIBE employee;
